@@ -1,0 +1,6 @@
+{
+  "name": "المنصة السودانية الخيرية للمساعدات الفردية",
+  "description": "البوابة الرقمية الرسمية للمنصة السودانية الخيرية للمساعدات الفردية - صدق وأمانة. ربط فاعلي الخير بأصحاب الحوجة بطريقة منظمة، آمنة وشفافة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
